@@ -1,8 +1,14 @@
 
 //console log text, expression 
-
+//console.log("hello world")
+//console.log(3+6)
+//let myName = "YiFeng"
+myName = "Jia";
+//const myMessage = "Good morning, ";
+//console.log(myMessage + myName);
 // Create a variable to hold your name as a string
-
+let isSunny = true
+console.log(isSunny)
 //Concatenate your name variable into a message and log it to the console.
 //Example: “Hello, Zach!” 
 
